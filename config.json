@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdncrypt",
+        "uuid": 12378076,
+        "checksum": "9yx57l"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
